@@ -10,4 +10,4 @@ python3 outplayed-retriever/main.py
 ```
 
 ### Example
-()[]
+![demo](https://github.com/Egsagon/outplayed-retriever/blob/master/demo.png)
