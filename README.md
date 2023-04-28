@@ -2,6 +2,8 @@
 
 Simple script to fetch favorite video pathes from Outplayed on any game.
 
+License: MIT - See the `LICENSE` file.
+
 ### Usage
 
 ```sh
